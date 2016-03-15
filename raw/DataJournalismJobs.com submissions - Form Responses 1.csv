@@ -1,0 +1,459 @@
+Timestamp,Job title,Company,Job description,Skills required,Location,Company website URL,How to apply,Application deadline,Is this position an internship?,What's the pay?,"Is that the pay rate per hour, week, month or year?",Is this full time or part time work?,Where can I find out more about this job?,Closed,Approved
+7/16/2015 21:19:29,Interactive news developer,Financial Times,"The FT is hiring a developer to join the Interactive News desk, a cross-functional team of data- visual- and coder-journalists based in its London newsroom.","Javascript, D3, HTML, CSS, SVG, NodeJS, Git, Github, literacy, numeracy","London, UK",http://www.ft.com/,martin.stabe@ft.com,,,,,,,,1
+7/16/2015 22:15:29,Designer,NPR,"We’re a crew of visual journalists (developers, designers, photojournalists…lots of things) in the newsroom at NPR headquarters in sunny Washington, DC. We make charts and maps, we make and edit pictures and video, we help reporters with data, and we create all sorts of web-native visual stories.
+
+(And yeah, sometimes it’s kind of weird to be a visuals team at a radio organization. But there’s this special thing about audio. It’s intimate, it’s personal. Well, visual storytelling is really similar. It’s power is innate. Humans invented writing — visual and audio storytelling are built in, deep in our primordial lizard brains. So, anyway, yeah, we fit right in.)",Javascript,"Washington, DC",http://www.npr.org/,bboyer@npr.org,,,,,,,1,1
+7/16/2015 22:21:32,News applications developer,Huffington Post,"The Huffington Post is seeking an experienced Ruby on Rails engineer with a keen interest in current events to join its award-winning data team. To help tell interactive stories, the right candidate will build systems to host complex, data-focused news stories and election coverage. They’ll also have a chance to work with our Pollster team to predict winning candidates in upcoming elections and explore new ways to cover politics online.","Ruby on rails, MySQL, Linux, Varnish","New York, NY",http://www.huffingtonpost.com/,careers+data@huffingtonpost.com,,,,,,,,1
+7/16/2015 22:27:44,Data Journalist,Huffington Post,"The Huffington Post is looking for a journalist with design and programming skills to join its award-winning data team. The right candidate will be part of a small, deadline-oriented group constantly seeking new ways to crunch and visualize data in the news. He or she will have access to editors and producers to help ideas become widely-read stories.
+
+This journalist will have strong news judgment, the gumption to pitch ideas and understand how to distinguish actionable ideas from underdeveloped ones. He or she should have a strong grasp of numbers, ability to manipulate spreadsheets and conduct meaningful analysis. The candidate should have excellent visual literacy and understand the fundamentals of designing charts and maps from scratch","Javascript, CSS, HTML5, Leaflet.js","New York, NY",http://www.huffingtonpost.com/,careers+data@huffingtonpost.com,,,,,,,,1
+7/16/2015 22:31:35,Data and Interactives editor,Huffington Post,"The Huffington Post is looking for an editor to lead a small, award-winning data team based in New York. This is a key role that will help shape the future of data visualization and interactive features at our organization. The ideal candidate can work comfortably on deadline, can manage time and resources for multiple projects, and can work with both editorial and technical groups. He or she should also be able to build, manage or provide precise feedback on apps and maps, data analysis and design, and data stories around news events. This editor will have an opportunity to work with great writers, reporters, editors and production crews to lead trend-setting journalism. See a sample of the team’s work at data.huffingtonpost.com.",Management,"New York, NY",http://www.huffingtonpost.com/,careers+data@huffingtonpost.com,,,,,,,,1
+7/20/2015 11:09:20,General Assignment Data Reporter,Sun Sentinel,"-- Tap into news budgets and meetings and collaborate with other reporting teams to identify stories with the best potential for relatively quick-turn, high-interest databases.
+-- Provide data analysis on enterprise stories and traditional mainstays such as crime statistics, test scores, Census releases, elections.
+-- Be creative in identifying and mining data sources to develop enterprise stories and enterprise angles off of breaking stories.
+-- Quickly shift gears when news breaks to report and write on a wide variety of topics, with or without a data component.
+-- Conduct regular brown-bag sessions with reporters to tap into a wider range of stories and help grow fundamental data reporting skills throughout the newsroom.","Reporting, Writing, Data Analysis Skills, Excel, Access, MySQL, Mapping software",Fort Lauderdale FL,http://sunsentinel.com,jmaines@sunsentinel.com,,,,,,,,1
+7/21/2015 10:36:59,Dataviz Designer,Vocativ,"Vocativ is seeking a full-time dataviz/infographic designer to join our New York office. We’re looking for someone to own the creation of static infographics and data visualizations to complement our articles. The candidate will work hand-in-hand with our news team to teach best design practices, adopt current design trends, and make our dataviz as beautiful and shareable as possible.
+
+You will be willing to learn to use, adapt and improve tools like ChartBuilder, R, CartoDB to create interactive pieces, and be eager to developing coding ability in D3 to make custom interactive pieces. Your main goal is to improve and make consistent our visual style, increase the diversity of visualization methods in our static pieces, create and integrate more graphics, illustrations, and icons into our visualizations ","illustrator, excel/sheets, graphic design",New York,http://vocativ.com,jobs@vocativ.com,,,,,,,,1
+7/21/2015 11:50:23,Interactive Graphic Journalist,Bloomberg,"Bloomberg is seeking a talented and motivated graphic journalist to create interactive infographics for Bloomberg's web and media platforms. This digital storyteller will work closely with award-winning writers, editors, designers, analysts, and coders on the Bloomberg Graphics team to create multimedia infographics, data-driven visual experiences, interactive maps, and static graphics 
+
+The interactive graphic journalist participates in all aspects of the graphic-creation process: pitching ideas, collaborating with reporters, conceptualizing and designing, analyzing data sets, storyboarding ideas, writing copy, and coding the experience.","Information design, Interaction design, Adobe (Illustrator, InDesign, Photoshop), R, Javascript, HTML5, CSS, d3","New York, NY",http://bloomberg.com,http://jobs.bloomberg.com/job/New-York-Interactive-Graphic-Journalist-Job-NY/276897600/,,,,,,,,1
+7/22/2015 14:43:53,Graphics journalist,The New York Times,"The New York Times is hiring journalists to join The Upshot and the graphics department. We are looking for people who have lots of ideas, have demonstrated an interest in technology and have experience working with others in small teams.
+",Able to execute ideas on the Internet.,New York City,http://www.nytimes.com/upshot/,http://www.nytimes.com/newsgraphics/2015/07/21/upshot-graphics-job-post/index.html,,,,,,,,1
+7/24/2015 10:51:35,Digital Cartographer Developer,The Wall Street Journal,"The Wall Street Journal is seeking a digital cartographer to join its award-winning visuals team in New York. The candidate will play a key role in developing interactive mapping projects from start to finish: collecting and preparing data, analyzing geospatial data, selecting the right platforms for display, and coding interactive experiences that enrich the story.
+
+Candidates should possess a mix of skills in at least coding and geospatial presentation, while the best candidates will also show talent for geospatial analysis, web design and data management. Key technical skills include a familiarity with ArcGIS, database analysis including PostGIS, and an understanding of digital mapping tools like Leaflet, Mapbox and CartoDB.  The right individual will also be deeply passionate about maps, knowing how to leverage the form to tell a compelling story and be an advocate for strong maps across the newsroom.","ArcGIS,QGIS,PostGIS,Leaflet,Mapbox,CartoDB","New York, NY",http://www.wsj.com/,https://employeecareers-dowjones-newscorp.icims.com/jobs/26611/digital-cartographer-developer/job?mode=view&mobile=false&width=910&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360,,,,,,,,1
+7/24/2015 11:06:58,Developer Journalist/News App Developer,The Wall Street Journal,"Members of our interactive graphics team possess a different combination of three core skills: journalism, programming and design. The ideal candidate for this position will be skilled in at least two of these, with an interest in the third, providing a portfolio demonstrating these abilities.
+ 
+As a journalist, the candidate will have a nose for news, bringing a strong understanding of news values to his or her everyday decisions. As a full-stack developer, the candidate will possess coding skills in front-end languages like HTML, CSS, Javascript and its libraries (especially D3); and back-end languages like PHP and Node. And as a designer, the candidate will be familiar with producing wireframes and designing compelling mockups in Photoshop or Illustrator, showing an understanding of typography, color and UX/UI design. Candidates with experience in data visualization are strongly preferred.","HTML,CSS,Javascript,D3,PHP,Node,Photoshop,Illustrator,Dataviz,Design","New York, NY",http://www.wsj.com/,https://employeecareers-dowjones-newscorp.icims.com/jobs/26613/developer-journalist-news-app-developer/job?mode=view,,,,,,,,1
+7/24/2015 11:09:22,Digital Designer,The Wall Street Journal,"The Wall Street Journal’s award winning News Graphics Team is seeking unique designer-developer talent to innovate and break boundaries through arresting, informative visual executions.
+ 
+As a visual storytelling developer, you will be working closely with reporters, editors and other interactive designer/coders to engage audiences and bring WSJ’s world-class journalism to life in formats fresh and sound.
+ 
+This is a hands-on position that will unite your expertise in front-end coding, typography, photography, multimedia, UX storytelling and problem-solving. Experience within a deadline-driven environment is critical, as is working within a highly collaborative spirit, swiftly yet accurately. While it’s important to have an understanding of the technology, an adventurous and ambitious attitude for learning new skills and overcoming the challenges of designing and building for multiple platforms is also essential.","Photoshop,Illustrator,CSS,HTML,JavaScript,Github","New York, NY",http://www.wsj.com/,https://employeecareers-dowjones-newscorp.icims.com/jobs/26612/digital-designer/job?mode=view,,,,,,,,1
+7/24/2015 11:11:15,Multimedia Editor,The Wall Street Journal,"The Wall Street Journal is seeking a multimedia editor to join its graphics team in New York. The ideal candidate will be comfortable constructing bespoke elements for immersive narrative experiences and visualizing complex datasets. This person would have their hands in both the print and online products, tailored for a range of devices. All are a must for this position: A background in news graphics with a strong portfolio of data visualizations; knowledge of and passion for economy, stock market and financial news; at ease in a fast-paced environment; ability to single-handedly gather news, mine data and create visually engaging graphics.
+ 
+Skills needed: Well-versed in Adobe Creative Suite (IIllustrator, Photoshop, After Effects is a plus). Handy with web standards, including HTML, CSS, JavaScript and relevant code libraries such as JQuery and D3.js. Knowledge of Cinema 4D and SketchUp is a big plus. ","Illustrator,Photoshop,After Effects,HTML,CSS,JavaScript,jQuery,D3,3D technologies,Cinema 4D,SketchUp","New York, NY",http://www.wsj.com/,https://employeecareers-dowjones-newscorp.icims.com/jobs/26610/multimedia-editor/job?mode=view,,,,,,,,1
+7/28/2015 15:52:01,Computational Journalist,The Dallas Morning News,"The Dallas Morning News is looking for a computational journalist to join its newsroom.The right candidate has a complementary mix of code skills and journalism chops. She or he will help lead a new emphasis on developing our interactive and graphic storytelling online while continuing The News’ tradition of statistically sophisticated and data-dense journalism.
+The position will be part of The News’ Projects team, but whoever fills it will range across beats to support data-driven journalism all over the newsroom. She or he will also develop web apps, data visualizations and open source tools to support her own and other staff reporting.
+
+Send a resume, links to significant work and your Github handle to dmnjobs@dallasnews.com","SQL, Python, statistical software",Dallas,dallasnews.com,dmnjobs@dallasnews.com,,,,,,,,1
+7/30/2015 16:29:00,Interactive Editor,The Dallas Morning News,"As a data visualization and interactive designer at The Dallas Morning News, you are part of the newsroom. You help find ways to bring stories to life in a digital medium with the help of The News’ award-winning photographers and writers. You’ll help make editorial decisions about how stories are best displayed online, what works digitally, and what doesn’t, all the while ensuring that digital presentations function across multiple platforms.
+Bachelor’s Degree in journalism, visual journalism or related field and 2 years of experience  at news organization. Ability to write clean, effective frontend code that functions as expected on a variety of platforms is required. Must also be able to handle projects without direction.  
+Send your resume and work samples to dmnjobs@dallasnews.com","Frontend code, digital design, graphic design, typography",Dallas,dallasnews.com,dmnjobs@dallasnews.com,,,,,,,,1
+8/5/2015 14:44:56,Lead developer,California Civic Data Coalition,"The California Civic Data Coalition is seeking a developer to lead its open-source project to master the jumbled, dirty and difficult government database that tracks money in California politics.","Python, Open-source software",California,http://www.californiacivicdata.org/2015/08/05/opening-lead-developer/,cacivicdata@gmail.com,,,,,,,,1
+8/10/2015 19:55:16,Producer,Global News,Global News has full time position available for a producer with the current affairs program “16x9” based at Global Toronto.,"Preference will be given to candidates with experience in computer assisted reporting (CAR) and data compiling, analysis and interpretation for investigative journalism "," 	Don Mills, Ontario, Canada",http://globalnews.ca/national/program/16x9,http://shaw.njoyn.com/CGI/xweb/Xweb.asp?tbtoken=Z1hYRxJaRxI9KQR5TCZWESM8bWwtLiUuQC4kXiNBdiZVVEV%2BeGddREUeWEUbdmt8cTJXIFgcS3FjXHcfXQ%3D%3D&chk=dFlbRxtZ&CLID=21753&page=jobdetails&JobID=J0815-0441&BRID=408370&LANG=1,,,,,,,,1
+8/11/2015 19:47:07,Visual Journalist,FiveThirtyEight,The intern will help design graphics for the site and create original blog posts (which can be predominantly charts or mostly text depending on the story and his or her interest). ,"Adobe Illustrator, Javascript, Python, R","New York, NY",http://fivethirtyeight.com,http://jobs.espncareers.com/new-york/digital-media/jobid8082108-visual-journalist-fivethirtyeight-internship-ny-espn-fall-2015-jobs,,"Yes, paid",,,Full time,,,1
+8/11/2015 19:52:37,Data Journalist,The Guardian,"We are looking for a data journalist to collaborate on projects across the newsroom, writing data-driven stories and analysis, from quick-hit pieces to longer-term enterprise and investigations. Working closely with reporters, you will generate story ideas and projects, and collaborate with other desks to produce deeper, richer stories, interactives, visuals and compelling data-driven analysis.","Spreadsheet software, stats software, dataviz","London,",http://theguardian.com,http://jobs.theguardian.com/job/6146552/data-journalist/,8/23/2015 17:00:00,,,,Full time,,,1
+8/11/2015 19:57:51,News Researcher,Wall Street Journal,"The Wall Street Journal is seeking an entry-level research professional based in New York City.  We’re looking for a news hound who wants to be an integral part of big, competitive stories. This person will work in partnership with the newsroom’s senior researcher to enhance the quality of news gathering through the use of online databases such as Accurint, TLO, Nexis, Factiva, PACER, and Courtlink. The ideal candidate also will have some familiarity with accessing public and private databases, including using spreadsheets, as well as using social media to ferret out information. ",Use of online databases,New York,http://wsj.com,https://uscareers-dowjones-newscorp.icims.com/jobs/26981/assistant-news-editor%2c-research/job?mobile=false&width=910&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240,,,,,Full time,,,1
+8/11/2015 20:02:10,Interactive data journalist,Raycom Media,"Raycom Media seeks an infographics and data journalist to conceptualize and produce interactive content, charts and other visuals to illustrate content exclusively for the web. This includes data visualization. ","HTML5, CSS, Javascript, jQuery, Adobe Illustrator, Photoshop, Edge, Tableau, Google Refine, Github","Montgomery, Alabama",http://www.raycommedia.com/,https://careers-raycommedia.icims.com/jobs/3800/data-visualization-graphic-artist/job,,,,,Full time,,,1
+8/12/2015 22:30:59,Research Scientist,University of Maryland,"The Computational Journalism Lab at the University of Maryland researches how computing and data can be leveraged to enable journalism across a wide variety of information tasks such as data collection and investigation, sensemaking, storytelling, and news dissemination. Current projects include everything from investigating algorithms in dynamic pricing and online political information, to doing data science around online communication like news comments, building platforms for news automation, and designing user interfaces and data visualizations for effective communication.","HTML/CSS, Python, MySQL, Amazon Web Services (AWS), Github, and the use of APIs (e.g. Twitter). ","College Park, Maryland",http://umd.edu,https://ejobs.umd.edu/postings/35785,,,,,Full time,,,1
+8/12/2015 23:00:20,Knight-Mozilla Fellow,Knight-Mozilla OpenNews,"The Knight-Mozilla Fellowship places creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people’s lives. Knight-Mozilla Fellows spend 10 months working with newsroom technology teams to write open-source code, analyze and visualize data, and explore tough problems facing journalism.",Solve problems via code and an interest in journalism,Various,http://opennews.org,https://opennews.org/what/fellowships/info/,8/21/2015 23:59:00,,6000,Month,Full time,,,1
+8/13/2015 12:07:40,Multimedia Designer,South Florida Sun Sentinel,"The Sun Sentinel is looking for a standout multimedia designer to join our small interactive team. 
+ 
+Some days you may be designing longform narratives, other days you may tackle data visualization or building apps. We’re looking for someone who cares deeply about user experience and can find the best way to tell the story. 
+ 
+You’ll work closely with reporters and editors to shape and develop content. We work with every department in the newsroom (news, investigative, sports, business, features and more) so there are unending opportunities to create meaningful work. Our work ranges from serious to silly and everything in between. 
+
+Here are things we’ve made in the past two years: http://www.sun-sentinel.com/news/interactive/
+ 
+Experience with HTML, CSS and JavaScript are important, and other programming languages and open-source tools are helpful.","Design, HTML, CSS, Javascript, JS frameworks (ie jQuery). Bonus points for server-side scripting skills (ie, PHP, Python, Rails or other)","Fort Lauderdale, FL",http://www.sun-sentinel.com,https://careers-tribunepublishing.icims.com/jobs/43106/designer%2c-multimedia/job,,,,,Full time,,,1
+8/13/2015 12:23:16,Investigative reporter,Midwest Center for Investigative Reporting,"We are seeking an experienced, investigative reporter to produce quick-hit as well as deep investigative and enterprise stories on five big agribusinesses in the Midwest.","Excel, database management software, GIS software","Champaign, Illinois",http://www.investigatemidwest.org/,http://investigatemidwest.org/jobs/,8/31/2015 17:00:00,,,,Full time,,,1
+8/18/2015 8:40:09,Senior Engineer,The Wirecutter,"The Wirecutter is seeking a Senior Engineer to be third member of small, but mighty, engineering team.  Our technology stack is currently centered around: WordPress as our content management system, PHP, MySQL, Backbone.js, Elasticsearch, and multiple REST APIs.
+This is a remote full-time position on a distributed team. The full job posting is on our website: http://thewirecutter.com/jobs/senior-engineer/
+
+Responsibilities Include:
+* Enhance, update, and support our current infrastructure and content management system
+* Architect and develop new features or products that are user friendly, flexible, and scalable, while working hand-in-hand with our design and production teams
+* Clearly communicate project statuses, technical challenges, proposed solutions, and potential drawbacks to technical and non-technical staff
+* Assist and teach your engineering teammates by participating in code reviews and QA testing
+* Take ownership of, and have a sense of pride in, anything you touch","Qualifications: Expert-level knowledge of WordPress and the WordPress APIs * Experience with Object-Oriented Programming and common design patterns * Exceptional communication skills, including written, verbal and long-distance (i.e., Slack, Google Hangouts, etc) * Self motivated, self-starter, able to manage your own time * Experience consuming data from REST APIs * Experience with Git and development workflows  Not required, but a bonus: * Experience working on a distributed team * Experience scaling WordPress for high-traffic sites * Experience architecting and documenting REST API endpoints * Experience with Backbone.js and Underscore or Mustache templating * Open-source projects/contributions",Remote,http://thewirecutter.com,jobs@thewirecutter.com,8/31/2015 8:00:00,,95000,Year,Full time,,,1
+8/21/2015 8:16:52,Visual Journalist,Newsweek,"Newsweek is looking for a creative visual journalist to join its growing web team and to work with reporters and editors on daily web stories and longform, in-depth investigative pieces. The ideal candidate should be interested in working in a fast-paced, energetic newsroom, telling stories through interactive graphics, charts and other elements; be good at multitasking and problem solving and have excellent time management skills. Email your resume and portfolio to Jackie Bischof at j.bischof@newsweek.com and Kira Bindrim at k.bindrim@newsweek.com.","A working knowledge of HTML/Javascript/CSS
+Experience working with data visualization tools like D3, FusionCharts, CartoDB, Photoshop, Illustrator, etc
+Experience working with large datasets
+The ability to reduce data but still communicate effectively
+
+Experience working in newsroom and with a CMS, and having an eye for design, would be major pluses. Candidates may have the opportunity to write as well if they’re interested.",New York City,www.newsweek.com,j.bischof@newsweek.com,,,,,Full time,,,1
+8/25/2015 14:58:44,Data Editor Reporter,Reuters,"We’re looking for a journalist with experience of data and politics to lead our news polling operations in the U.S. and help us produce agenda-setting news on political trends.
+
+You will manage every step of our polling process, from helping reporters craft questions for our panels, to administrating our polling database, spotting trends in the numbers, and reporting and writing several stories a week. Working with our polling partner Ipsos, you will look for opportunities to advance our political coverage, interpret results and stand out in a competitive field for election news.
+","SQL/Excel
+R would be nice
+
+Understanding of stats, sampling and weighting. ",New York,http://polling.reuters.com,https://toc.taleo.net/careersection/application.jss?lang=en&type=1&csNo=2&portal=140100085&reqNo=1355830&isOnLogoutPage=true,9/1/2015 12:00:00,,,,Full time,https://toc.taleo.net/careersection/2/jobdetail.ftl?lang=en&job=JREQ049100,,1
+8/28/2015 15:29:11,Data Editor,The Chicago Reporter,"The Chicago Reporter, a publication of the Community Renewal Society, seeks a  data editor to help us shape our investigative reporting on race, poverty and income inequality. We want someone who is passionate about our mission, loves data and fits comfortably in a small nonprofit shop with big ambitions. ","The ideal candidate is detail oriented, has strong computer skills, some reporting experience, knowledge of the latest data tools and the ability to help reporters and editors translate data into stories.  Most important, we want a continuous learner who can thrive in a start-up style work culture.","Chicago, IL",http://www.chicagoreporter.com,srichardson@chicagoreporter.com,,,,,Part time,,,1
+9/3/2015 16:22:47,Graphics content editor,The Globe and Mail,"The Globe and Mail is currently seeking a Content Editor (Graphics) to join its award-winning team of visual journalists. 
+
+Reporting to the Design Director, the editor is responsible for the assignment, curation and editing of graphics and data projects of all shapes and sizes on all platforms. The successful candidate will be an enthusiastic, resourceful journalist who understands the endless possibilities of visual storytelling in the digital era, as well as the enduring power offered by print. ","Excellent communication, interpersonal, time-management and organizational skills
+Strong news judgement in the following topics: business, politics, national and foreign news
+Understanding of the fundamental principles of graphics & design
+Ability to meet complex deadlines and adapt to rapidly changing situations
+Commitment to highest journalism standards and ethics
+Experience in HTML5, CSS and Javascript and open-source tools
+Adobe Creative Suite, ArcView and/or Lightwave considered an asset",Toronto,www.theglobeandmail.com,http://careers2.hiredesk.net/viewjobs/JobDetail.asp?Comp=Globeandmail&sPERS_ID=&TP_ID=1&JB_ID=&PROJ_ID=%7B69C48962-D05A-43C2-BB01-470D76D2CFD3%7D&LAN=en-US&BackUrl=ViewJobs/Default.asp,,,,,Full time,,,1
+9/3/2015 18:00:38,Data Reporter,Reuters," 
+Reuters is looking for a data reporter with a keen interest in producing ambitious, original, high-impact stories about business and finance. Candidates must have intermediate or advanced data analysis skills and a track record of bold beat and enterprise reporting. We want a data ninja who can hunt and slay data, resulting in stories that uncover business secrets, drive markets and challenge titans of industry.
+
+You must enjoy collaboration and have a sixth-sense for finding stories that matter. Our data reporters do not merely serve up data; they work with other reporters and editors to conceive stories and shape our reporting. This is a job for someone who is compulsive about fairness and accuracy, learns new skills quickly and brims with ideas about how Thomson Reuters’ proprietary financial data could inform stories.","Experience as a full-time reporter, including some time covering a beat and some enterprise/investigative reporting. Preference will be given to candidates with business reporting experience, knowledge of financial markets and experience with economic and financial data sets
+Advanced skills in Microsoft Excel, intermediate- to advanced SQL skills
+Pluses: enough programming skills to reshape/analyze difficult data sets; R or other open-source statistical programming skills; GIS
+","New York, NY",http://www.reuters.com/,https://toc.taleo.net/careersection/2/jobdetail.ftl?lang=en&job=JREQ049630,,,,,Full time,,,1
+9/16/2015 11:15:56,Professor of Political Communications,University of Iowa,"The University of Iowa School of Journalism and Mass Communication invites applications for a tenure-track assistant professor in the field of political communication. This position has an emphasis on studying, reporting on or conducting political campaigns. The appointment will begin August 15, 2016.
+
+The ideal applicant will have significant experience interacting with political campaigns from journalistic and/or strategic communication perspectives. This might include having covered state and national campaigns or being involved in the planning and execution of political campaigns. Persons with experience in digital and social media are encouraged to apply, Teaching experience and/or professional experience in journalism or strategic communication is preferred.
+
+Review of applications will begin October 15, 2015, and will be ongoing until the position is filled.
+
+SEE OFFICIAL AD: 
+https://jobs.uiowa.edu/faculty/view/67401","Required Qualifications: B.A. or graduate degree in mass communication or related discipline and extensive professional experience.
+
+Desired Qualifications: Experience in political reporting or in planning and executing political campaigns. Experience teaching at the college level.
+
+
+","Iowa City, IA",http://uiowa.edu,https://jobs.uiowa.edu/faculty/view/67401,10/14/2015 23:59:00,,,,Full time,https://jobs.uiowa.edu/faculty/view/67401,,1
+9/16/2015 11:19:05,Visiting Assistant Professor of Journalism,University of Iowa,"The School of Journalism and Mass Communication at The University of Iowa invites applicants for a Visiting Assistant Professor, an eighteen-month position beginning January 13, 2016. This person will teach three courses per semester (3/3), including the School’s introductory Journalism Reporting and Writing (JRW) course, and, depending on the interests and skills of the instructor, upper-division writing or workshop courses.
+
+Applications should include a letter of application and CV, names and contact information for three references, and evidence of teaching effectiveness. Applications should be submitted online at http://jobs.uiowa.edu/ (requisition #67400). Review of applications will begin October 22 and continue until the position is filled.","Bachelor’s degree is required, as is a demonstrated ability to supervise the work of others. Graduate degree is preferred, as is experience in teaching a reporting and media writing course, and recent professional newsroom or news-related industry experience.
+
+","Iowa City, IA",http://uiowa.edu,https://jobs.uiowa.edu/faculty/view/67400,10/21/2015 23:59:00,,45000,Year,Full time,https://jobs.uiowa.edu/faculty/view/67400,,1
+9/16/2015 14:46:04,California Health Data Fellowship,USC Annenberg,"Our new California Health Data Fellowship introduces 10 competitively-selected California journalists to a wealth of data sources that can inform and elevate their health reporting. The all-expenses-paid program, funded with generous grants from the California Health Care Foundation and The California Endowment, includes a $1,000 reporting stipend. The Fellowship is designed for reporters who want to learn how to harness and analyze data that can shape health care decision-making, policy and legislation across California and beyond. It will help journalists who are skilled storytellers to advance to a new level by mining healthcare data to reveal key insights essential to high impact journalism. More details here: http://www.reportingonhealth.org/event/2015-california-health-data-journalism-fellowship","Open to all California-based journalists, as well as journalists based elsewhere who contribute regularly to a California-based media outlet. 
+Prefer a minimum of three years of professional experience and basic spreadsheet skills. Proposals for collaborative projects between mainstream and ethnic news outlets will receive preference. Freelancers who apply should earn the majority of their income from journalism. Applicants must be based in the U.S. Students and interns are ineligible.",CA,http://www.reportingonhealth.org/event/2015-california-health-data-journalism-fellowship,http://www.reportingonhealth.org/fellowships/how-to-apply,10/16/2015 23:59:00,,,Year,Part time,http://www.reportingonhealth.org/event/2015-california-health-data-journalism-fellowship,,1
+9/21/2015 13:44:43,News Developer,St. Louis Post-Dispatch,"If you are a visual and technical journalist who has a desire to tell interactive stories across all devices, you might be a great fit for our newsroom.
+
+You'll design and develop interactive data presentations, both by collaborating with reporters and conceiving of your own projects.
+You'll help us tell long-form digital stories in creative ways.
+You'll work with our journalists to expand our storytelling toolbox.
+
+Skills needed:
+Patience to teach and collaborate with other journalists.
+Desire to experiment and innovate.
+Ability to turn projects quickly.
+Focus on reader experience.
+Clarity in your communication.
+ 
+Your application should include a brief bio and links to your resume and work samples.
+Send it to Bob Rose, Deputy Managing Editor at brose@post-dispatch.com
+Make the subject line: News Developer. Please do not include attachments in the email.","Journalism degree or 1 year of journalism experience
+Mastery of HTML5/CSS3 (including the concepts of responsive web design), as well as JavaScript/JQuery
+Experience with Adobe Illustrator and Photoshop
+Knowledge of common data visualization software and libraries, including Tilemill/Mapbox, D3/Raphael, etc. ","St. Louis, MO",www.stltoday.com,brose@post-dispatch.com,,,,,Full time,http://careers.journalists.org/jobs/7506771/online-news-developer-and-programmer,,1
+9/24/2015 17:56:25,Digital Editor,The Seattle Times,"The Seattle Times is looking for a Digital Editor who will be responsible for the day-to-day digital news coverage, planning and execution for seattletimes.com on all platforms. The individual in this role works to ensure that the creation of digital content is integrated into the many workflows of the newsroom and works with newsroom department heads to establish practices that put digital at the beginning of the planning process of all stories. The role involves devising strategies to grow seattletimes.com readership. The Digital Editor collaborates with other digital editors to develop long range planning for projects and works closely with the Managing Editor, Digital News Editor, Engagement Editor, News Developer and News Apps Editor on projects and daily work. ","Two years’ experience at a news organization working as a digital editor, social media editor and/or news website production. Supervisory experience a plus.
+
+Proficient with WordPress or other content-management systems used in the newsroom; familiar with JavaScript and HTML5 and CSS.
+
+Social media skills, including the ability to use Twitter, Facebook, Pinterest, LinkedIn and emerging social networks to reach new audiences and track the changing social landscape.
+","Seattle, WA",seattletimes.com,https://rn22.ultipro.com/SEA1004/jobboard/JobDetails.aspx?__ID=*486FA858151E4007,,,,,Full time,https://rn22.ultipro.com/SEA1004/jobboard/JobDetails.aspx?__ID=*486FA858151E4007,,1
+9/30/2015 13:10:43,C.A.R Producer,E.W. Scripps,"The computer assisted reporting (C.A.R.) producer will work with interactive features for investigative projects and stories. The C.A.R. producer will create a visualization story from the data collected and analyzed.
+
+Key activities
+Generate research and provide C.A.R. analysis for long form investigative stories
+Coordinate with bureau reporters/producers to integrate data into investigative projects
+Develop and manage new story projects
+Works with reporters and other producer's using computer-assisted reporting skills to produce    investigations about abuses of power, corruption and betrayals of trust by public officials and other institutions charged with functioning in the public interest
+Prep data for online presentation/analysis to help create excellent, audience-directed content     for online digital presentations and social media outlets
+Meets established deadlines
+Bachelor's degree or equivalent combination of education and experience","Five to seven years of investigative journalism experience with emphasis on C.A.R.
+Superb computer assisted reporting skills to include use of Excel, Access, SPSS, MySQL or other database tools.
+Digital Visualization skills/programming a huge plus.
+Great research, writing, and reporting skills
+Proven track record to manage multiple tasks and ongoing projects in a fast-paced  environment
+Strong analytical, research, and investigative skills.
+Advanced problem-solving skills.","Washington, DC",http://www.scripps.com/careers,tiffany.west@scripps.com,10/12/2015 12:00:00,,,,Full time,http://www.scripps.com/careers/find-a-job,,1
+10/6/2015 19:30:45,Investigative Data Reporter,Wall Street Journal,"The Wall Street Journal is seeking an experienced data reporter. This person will be based in New York City and contribute reporting and data analysis to enterprise projects and breaking news coverage. Working with data should be second nature to this person, who will be expected to immerse themselves in short-, medium- and long-term stories at one of the largest news organizations in the world. This person would mine dozens of complex data sets on a wide array of topics, including law enforcement, healthcare, agriculture, infrastructure, as well as federal, state and local government.","data skills, coding",New York City,wsj.com,http://dowjones.jobs/new-york-ny/investigative-data-reporter-general-assignment/6DFC2D662490457AA8921FD87D4FED32/job/,,,,,Full time,http://data-journalism-jobs.silk.co/page/Investigative-Data-Reporter-General-Assignment-The-Wall-Street-Journal,,1
+10/6/2015 19:33:00,Full-stack Javascript engineer,Vox Media,"You're a smart, friendly, pragmatic problem-solver who's passionate about making excellent products that are used by millions of people. ","Javascript, REST API experience, Node or other asynchronous programming framework","Washington, DC",voxmedia.com,https://boards.greenhouse.io/voxmedia/jobs/95885#.VgBJEGRViko,,,,,Full time,https://boards.greenhouse.io/voxmedia/jobs/95885#.VgBJEGRViko,,1
+10/6/2015 19:35:06,Web Developer,Pew Research Center,The Web Developer will be a member of a small in-house team that develops data tools based on center research. The primary focus of this position will be building the front-end for a custom data management and analysis tool being developed in-house by the Pew Research data team. This position reports to the Lead Web Developer.,"PHP, MySQL, Javascript, jQuery, JSON, XML, LAMP, data visualization (Highcharts, d3.js, etc), HTML, CSS","Washington, DC",pewresearch.org,careers@pewresearch.org,,,,,Full time,http://www.pewresearch.org/about/careers/web-developer/,,1
+10/6/2015 19:38:10,Web Developer,Religion News Service,"The Web Developer will help design, build, maintain and enhance our WordPress-powered site, ReligionNews.com. Working closely with the editorial and business-side staff, as well as an outside news technology consultant, this position has a central role in developing new products and sustaining a robust platform for RNS content. The Web Developer reports to the Publisher/CEO.","HTML, CSS, PHP, MySQL. Experience with applications like Campaign Monitor, WooCommerce, Stripe, DoubleClick for Publishers, etc. Wordpress.",Remote,http://www.religionnews.com/,RNS.Search@gmail.com,10/16/2015 17:00:00,,,,Full time,http://www.religionnews.com/about/careers/#webdev,,1
+10/6/2015 19:40:15,Data-Driven Journalist,Inter-American Development Bank,"The goal of this consultancy is to support the SPD’s Communications Team Leader in the various activities described below: 1. Write clear and concise stories, reports, and blogs  based on quantitative and qualitative information that is easily understood by a non-technical audience; 2. Identify newsworthy stories; by communicating with SPD team leaders, and leveraging internal data, learnings and insights.    3. Proofread, translate, and edit drafts of communications material produced in the Department; 4. Create data visualizations ensuring effective dissemination in social media outlets; 5. Create Power Point presentations for high officials of the Bank.","Statistics
+Spreadsheets
+PowerPoint
+Graphics
+Design
+APIs
+Excel
+English and fluent in Spanish",w,iadb.org,https://iadbcareers.taleo.net/careersection/staff/jobdetail.ftl,,,,,Full time,http://data-journalism-jobs.silk.co/page/Data-Driven-Journalist-Inter-American-Development-Bank,,1
+10/6/2015 19:42:01,Data Intern,ProPublica,"ProPublica is seeking a data intern to help research and produce the in-depth, data-driven investigations we’re known for. You’ll be working with our award-winning News Apps team, assisting with the data cleaning, bulletproofing and analysis that is central to projects like Dollars for Docs and Prescriber Checkup.","Data Skills
+Database Management
+SQL
+R","New York City, New York, United States",https://www.propublica.org/,https://www.propublica.org/atpropublica/item/propublica-is-seeking-a-data-intern,,,,,Full time,,,1
+10/6/2015 19:43:08,Data Journalist,Bloomberg,"Bloomberg is seeking a talented and motivated data journalist to create graphics and illustrations for a new operation that provides a morning news summary to users of the Bloomberg Terminal. The journalist will work closely with award-winning writers, editors, designers, analysts, and coders to create graphics and illustrations under deadline.","Data Skills
+Illustrator
+InDesign
+Photoshop
+Dataviz
+Design
+D3
+Javascript
+HTML
+CSS
+QGIS
+ArcGIS
+TopoJSON
+Three.js
+WebGL
+PostGIS
+Statistics
+Graphics","New York City, New York, United States",http://bloomberg.com/,http://jobs.bloomberg.com/americas/job/New-York-Data-Journalist-Daybreak-Job-NY/299816500/,,,,,Full time,http://data-journalism-jobs.silk.co/page/Data-Journalist-Bloomberg,,1
+10/12/2015 18:57:34,Interactive News Intern,New York Times,"Are you a student with some coding chops and an interest in the news? Spend your summer with the interactive news desk at The New York Times, an agile team of developers working in the newsroom.","Ruby on Rails, Node.js, Django, jQuery, Javascript, React, D3.js, Backbone.js, web scraping, ElasticSearch, MongoDB, MySQL",New York City,nytimes.com,http://www.nytco.com/careers/Newsroom-Summer-Internships/#11,10/31/2015 17:00:00,"Yes, paid",1000,Week,Full time,http://www.nytco.com/careers/Newsroom-Summer-Internships/#4,,
+10/12/2015 19:01:42,Summer 2016 visualization internship,Los Angeles Times,"Are you a journalist+nerd+artist? Do you geek out on data, human visual perception or user experience? Do you excel at generating visualizations that inform and entertain? Then we have a place for you. The Los Angeles Times is looking for interns to join our Visualization and Data Department. Our expanding Visualization and Data team is on a mission to add diverse skills to our storytelling arsenal, including rich JavaScript visualizations, innovative motion graphics and games — all running on multiple types of devices. And that’s just the start. We’re also preparing for the future by experimenting in WebGL and VR.","WebGL (three.js, etc.)
+VR programming
+Javascript (D3. etc.)
+Animation
+Python
+Data analysis
+Innovative mapping",Los Angeles,latimes.com,https://latimes.submittable.com/submit/44620,12/1/2015 17:00:00,"Yes, paid",700,Week,Full time,https://latimes.submittable.com/submit/44620,,1
+10/12/2015 19:04:24,Summer 2016 Data Desk internship,Los Angeles Times,"The Data Desk is a team of reporters and computer programmers that works with journalists in The Times newsroom to collect, organize, analyze and present large amounts of information. 
+
+In short, we use data to find and tell stories. Stories that make a difference. Stories that otherwise would not be told.
+
+We are seeking an applicant with interest and experience doing the same.","Amazon EC2, POstgreSQL, Python, R, SQL, Django, Javascript, news writing",Los Angeles,latimes.com,https://latimes.submittable.com/submit/44624,4/1/2016 5:00:00,"Yes, paid",700,Week,Full time,https://latimes.submittable.com/submit/44624,,1
+10/12/2015 19:19:52,Summer 2016 news apps fellowship,Texas Tribune,"Are you a journalism student or would-be reporter in another major? Know a little bit about HTML, CSS, JavaScript, and/or Python/Django, and would like to continue to hone your skills? Are you passionate about politics, policy and open government? You should join us.
+
+You'll work directly with news apps developers, reporters and editors in the newsroom. Fellows are first-class citizens on our team – in the past, they've had the opportunity to not only contribute to high-profile projects but to take the lead on them. You'll get to create data visualizations and maps, participate in an active and friendly newsroom, play a role in editorial meetings and contribute to a number of different beats.","Programming, willingness to learn","Austin, Texas",texastribune.org,rmurphy@texastribune.org,11/15/0015 17:00:00,"Yes, paid",,,Full time,https://www.texastribune.org/jobs/editorial-fellowship/,,1
+10/14/2015 11:39:12,Survey Research Analyst,The Washington Post,"The Washington Post has an immediate opening for a survey research analyst. The analyst will work closely with the Post’s polling manager in designing and executing public opinion polls to support the newsroom’s national and local coverage. We’re looking for someone who can juggle many projects simultaneously, who can work quickly and accurately in a fast-paced newsroom and who can work odd and long hours when needed.  The research analyst will contribute to every stage of public-opinion research, including questionnaire development, pre-analysis preparation, data management, preparation of data tables and reports. This person will provide statistical analysis of results, help prepare graphics and write stories and blog posts highlighting poll findings. He or she will be responsible for cleaning, maintaining and archiving data resources, and will help reporters and editors analyze public opinion surveys done elsewhere.","This position requires strong writing skills, including a careful eye for detail and accuracy. Professional experience analyzing and writing about public opinion research is preferred, as is a strong interest in national politics and elections. Strong quantitative skills are essential, including experience with SPSS or an equivalent statistical package and high proficiency in Excel. A bachelor’s degree is required, and graduate work in a related field would be a plus.","Washington, DC",washingtonpost.com,http://washpostpr.tumblr.com/post/130819836402/job-opening-survey-research-analyst,10/16/2015 19:00:00,,,,Full time,,,1
+10/16/2015 6:18:51,"Data Visualisation Journalist, New York",Financial Times,"The Financial Times is seeking an experienced and talented data visualisation journalist to join its New York team. Responsibilities include: conceiving and producing charts, maps and infographics for digital channels and print; developing new forms of digital storytelling; assisting reporters and news editors with data research and display and passing on good practice in the use of data to colleagues. 
+Our ideal candidate is an accomplished data and visual storyteller with a portfolio proving an ability to tell complex, data-driven news stories in compelling and innovative formats both online and in print. Numeracy and the ability to think statistically are vital. Experience of working with macroeconomic and markets data would be an advantage.","Numeracy, Excel, Illustrator, Photoshop, HTML, CSS, JavaScript, D3, Git.","New York, NY",www.ft.com,Search for job ref 11869BR to find this on www.careersatft.com,10/19/2015 23:59:00,,,Month,Full time,https://docs.google.com/document/d/1n6ZKPnf0d3QYu_Wr3bjZpsTTsKv5xOFPLdeVGqJkjW0/edit,,1
+10/16/2015 14:39:10,ASSOCIATE (OR FULL) PROFESSOR OF THE PRACTICE OF COMPUTATIONAL JOURNALISM:,Boston University,For an experienced practitioner or scholar of journalism specializing in the use of metadata for the purpose of journalistic storytelling.,"computer-coding, teaching ",Boston,http://www.bu.edu/,mijohn2@bu.edu,,,,,Full time,,,1
+10/20/2015 14:01:27,Digital Internship,The Seattle Times,"The Seattle Times is looking for our summer 2016 Digital Intern. You'll still work with the Interactives team, including data crunching and visualizations for our award-winning investigative projects. But you'll also be learning the ropes from our web producers and digital editor, giving you first-hand, real-world experience with the home page and production process of one of the West Coast's biggest papers.","HTML/CSS
+WordPress experience
+Some programming language (JavaScript, Python, Matlab, R, SQL -- we're not picky)","Seattle, WA",www.seattletimes.com,https://rn22.ultipro.com/SEA1004/jobboard/JobDetails.aspx?__ID=*30EA3F13D6B29CB4,11/1/2015 12:00:00,"Yes, paid",,,Full time,,,1
+10/23/2015 9:49:52,Jr. Database Developer,CRP,"Jr. SQL Server Database Programmer
+
+The Center for Responsive Politics, a non-partisan non-profit that tracks money in politics, is seeking a MS SQL Server database professional.  With responsibilities ranging from DBA work to T-SQL programming to data analysis and information architecture, join our small, dedicated and talented team providing timely information to reporters and citizens.  This position reports to the IT Director.","Basic Responsibilities:
+1.    maintain integrity, security, stability and responsiveness of scores of databases on multiple servers
+2.    acquire data from dozens of different sources on a regular basis using established and newly created systems to process data and update OpenSecrets.org web site","Washington, DC",http://www.opensecrets.org,jobs+dba@crp.org,,,,Year,Full time,,,1
+10/26/2015 10:15:53,Knight Chair in Data  and Explanatory Journalism,Syracuse University,"The S.I. Newhouse School of Public Communications seeks an experienced and innovative storyteller who understands data and databases and how to develop meaningful content from it. This endowed position includes a budget and support to pursue original projects while working with other professors and students at Newhouse, across campus and at other universities. It includes classroom teaching of our graduates and undergraduates in all of our relevant majors in the communications field, including Magazine, Newspaper and Online, and Broadcast and Digital Journalism. This is a tenure appointment with full professor status for qualified candidates beginning in fall 2016.
+
+Newhouse is home to approximately 1,900 undergraduates and 250 graduate students. The school is housed in a 250,000-square-foot, three-building complex that includes state-of-the-art classrooms, a 300-seat auditorium, and a research center.
+",Experienced journalist with database experience,"Syracuse, NY",http://syr.edu,https://www.sujobopps.com/postings/60552,,,,,Full time,https://www.sujobopps.com/postings/60552,,1
+11/3/2015 17:58:23,Data Reporter,NJ Advance Media,"We’ve got an opening for a data reporter here at NJ Advance Media, which reports to NJ.com and a bevy of local newspapers including the Star-Ledger and Times of Trenton.  We’ve long had two data reporters on staff and are hiring to fill that back out after the departure of one of our reporters.  We’re also looking to expand shortly thereafter.  
+
+Right now, we’re looking for someone with strong front-end dev skills, that could produce data viz for short and long-term projects. Job is digitally focused. We help other reporters around the newsroom and produce our own stories, so a solid reporting background is strongly desired.  We like people looking to try new things and push their own knowledge and skill set forward.  
+
+If you want a rundown of what it's like to work here/more info, e-mail sstirling@njadvance media.com.  Otherwise, shoot state team editor Tom Troncone an e-mail with links to work, resume, cover letter at e-mail address provided. 
+","Front-end dev skills (JS, HTML, CSS, etc.) 
+Reporting background
+Background in basic data analysis a must 
+Knowledge of GIS, Python/Ruby, MySQL a plus ","Woodbridge, NJ",http://www.nj.com,ttroncone@njadvancemedia.com,12/1/2015 12:00:00,"Yes, paid",,,Full time,,,1
+11/7/2015 5:34:45,News Applications Developer,NPR,"Love to code?
+
+Want to use your skills to make the world a better place?
+
+We’re a crew of visual journalists (developers, designers, photojournalists…lots of things) in the newsroom at NPR headquarters in sunny Washington, DC. We make charts and maps, we make and edit pictures and video, we help reporters with data, and we create all sorts of web-native visual stories and weird data-driven websites.
+
+Join us!","You must have…
+
+- Experience making things for the web (We’ve got ways we like to do things, but we love to meet folks with new ideas and talents!)
+- Attention to detail and love for making things
+- A genuine and friendly disposition
+","Washington, DC",http://blog.apps.npr.org/,http://blog.apps.npr.org/2015/11/06/developer-job.html,12/31/2015 23:59:00,,,,Full time,,,1
+11/9/2015 19:47:16,Data/development intern/fellow 2016,Tampa Bay Times,"The Tampa Bay Times data team is looking for fantastic young data journalists, web designers and news-minded hackers to be interns or fellows with us in 2016. Our seven-person team analyzes data to inform and improve the world. We also use web development to experiment with better ways to tell news stories online. And we write computer code that helps our traditional newsroom do impactful journalism in a digital era — in both how we find stories and how we present them. Read the full description here: https://github.com/tbtimes/datateam/blob/master/2016-intern-ad.md","Must have skill at data reporting, web development, infographics or statistics. ",St. Petersburg,tampabay.com,https://github.com/tbtimes/datateam/blob/master/2016-intern-ad.md,12/6/2015 23:59:00,"Yes, paid",450,Week,Full time,https://github.com/tbtimes/datateam/blob/master/2016-intern-ad.md,,1
+11/11/2015 13:26:17,Interactives and Website Developer,PublicSource,"This job is part code and part design. We’re looking for someone who loves web-native storytelling, has an eye for beautiful design, and the tech skills to combine the two.","- Professional experience coding or doing interactive web development.
+- Extensive experience using Adobe Creative Suite or similar design tools.
+- Demonstrated expertise with HTML5, CSS3, version control (Git), JavaScript, PHP.
+- The ability to work independently as well as collaboratively
+- A demonstrated understanding of user experience.
+- An interest in making data visually interesting and understandable.
+- Ability to work on a deadline.","Pittsburgh, PA",http://www.publicsource.org,http://publicsource.org/jobs#developer,11/30/2015 23:59:00,,,,Full time,http://publicsource.org/jobs#developer,,1
+11/12/2015 14:03:58,Data Journalist,The Associated Press,"The Associated Press is seeking a Newsperson/Data Journalist who combines keen analytical skill, solid coding chops, strong news judgment and a passion for storytelling.  Location is flexible: the position can be based in any of our domestic bureaus.
+
+- See more at: http://chc.tbe.taleo.net/chc04/ats/careers/requisition.jsp?org=AP&cws=1&rid=4568#sthash.nVNlf5Bw.dpuf","Strong data analysis and reporting skills with a track record of developing strong story ideas from data.
+Must be comfortable working with SQL in an open source relational database manager such as Postgres, MySQL or SQLite
+Experience doing statistical computing using R, Python or another scripting language.
+Familiarity with revision control systems, preferably Git.
+Experience acquiring, vetting and cleaning government data.",Any U.S. city with an AP bureau,ap.org,http://bit.ly/1MDPKa0 ,12/12/2015 0:00:00,,,,Full time,,,1
+11/13/2015 11:49:59,News apps develpoer,Austin American-Statesman,"The Statesman is looking for a news applications specialist for the interactives team. This developer journalist will work with reporters, editors and other team members to design and build interactive graphics, data visualizations and news applications to support journalism ventures.
+
+* Work as part of a newsroom team to bring our most important stories to our readers in a compelling way across all our various digital platforms.
+* Develop, code, test and debug news apps for mobile and wired platforms.
+* Share and expand knowledge with other team members, and to learn from the experience of others.
+* Research new technology and best practices and tools and analyze for best fit, usage, stability and performance.
+* Communicate with both technical and non-technical colleagues to serve as a bridge between content and digital design of applications and visualizations.
+* Some reporting and contacting sources for data and information.
+","The Statesman is looking for a news applications specialist for the interactives team. This developer journalist will work with reporters, editors and other team members to design and build interactive graphics, data visualizations and news applications to support journalism ventures.
+","Austin, TX",http://www.statesman.com,cmcdonald@statesman.com,,,,,Full time,,,1
+11/16/2015 13:02:50,Interactive Designer,The Baltimore Sun,"The Baltimore Sun is looking for a versatile Interactive Designer who can create data visualizations and graphics across all platforms and assist with general website upkeep and development tasks.  
+
+ 
+
+Duties:
+
+- Design and execute a wide variety of graphics for online and print that help explain difficult concepts and present many layers of information at a glance.
+
+- Create data visualizations for online and print that provide context and deeper understanding of news stories. 
+
+- Create interactive-only standalone graphics in addition to converting print graphics to interactive.
+
+- Work independently with reporters and editors to collect and organize information for graphics and data visualizations. 
+
+- Assist in the maintenance of baltimoresun.com, darkroom.baltimoresun.com and other editorial websites.
+
+- General technology and production tasks related to the news. 
+
+Candidates should email cover letter, resume and work samples to amarton@baltimoresun.com",See full description at https://www.journalismjobs.com/job-listings/1625771,"501 N. Calvert Street, Baltimore, MD",http://www.baltimoresun.com,amarton@baltimoresun.com,,,,,Full time,https://www.journalismjobs.com/job-listings/1625771,,1
+11/17/2015 13:16:43,Front End Developer - Data Visualization,Daily Kos,"Daily Kos, the nation’s largest online progressive blogging and activism platform, is looking for a front-end developer and interactive data visualization expert to join our elections and polling team. The position combines design expertise with data journalism skills, and offers a great deal of creative flexibility.
+
+Daily Kos is a great place to work -- You'll join a committed team of writers, researchers, and engineers working to make real political change, as we plan for the 2016 elections, and beyond. Building on our recent site redesign, you'll have an opportunity to bring readers new insight into our elections coverage in a visual, data driven way. You'll also help build out our ambitious new survey research platform.
+
+If you want a job that provides more than just a technical challenge, we'd love to hear from you. We especially welcome you to get in touch if you’re interested or have been active in political technology around campaigns, organizing, or survey research.","Required:
+Expert knowledge of D3/JavaScript graphing technologies
+Experience in graphics programming, interactive graphics, data visualization, and data analysis
+Excellent problem solving, design, development, and debugging skills
+Interest in politics, elections, and political data
+
+Great to have:
+Experience with large databases -- ETL, RedShift or other columnar store, etc.
+Knowledge of statistics
+Python/R
+","Oakland, CA (remote OK)",dailykos.com,tech_jobs@dailykos.com,1/31/2016 0:00:00,,,,Full time,http://www.dailykos.com/jobs/front-end-developer-data-visualization,,1
+11/18/2015 17:32:07,Data visualization developer intern,The Atlanta Journal-Constitution,"We're looking for someone who has solid web development and design skills, as well as a knack for making clean, clear, creative interactive graphics.
+Must have demonstrated experience with HTML, CSS, Javascript and jQuery, and version control (such as git)
+Experience with drawing libraries like d3.js and mapping libraries like Leaflet or Google Maps API.
+Major plus: experience with a server-side scripting language such as Ruby or Python, or graphics experience with an eye for great design (or both!)
+Send us your online portfolio or links to your work, and/or your github username along with your cover letter and resume.","Required skills: HTML, CSS, javascript, git, data literacy. Preferred skills: d3.js, backbone.js, server-side scripting language such as Ruby or Python, SQL","Atlanta, GA",myajc.com,ajcinterns@gmail.com,11/30/2015 23:59:00,"Yes, paid",500,Week,Full time,http://internships.ajc.com/,,1
+12/2/2015 9:11:56,Front End Developer: Visualizations and data journalism,Aftonbladet,"Are you a person burning for visualizations, data journalism and open data? Do you want to work with one foot in Aftonbladet´s developing department and the other among the editors?
+With open web technologies like HTML, CSS, JavaScript and WebGL you build visualizations and help our readers to understand our complicated world. (Aftonbladet, owned by Schibsted Media Group, is the largest news source in Sweden. We have over three million daily readers and TV watchers. Aftonbladet has about 400 employees. The turnaround was 2,1 billion SEK in 2013.)","HTML, CSS (LESS/Sass), JavaScript, jQuery, Angular, React",Stockholm,www.aftonbladet.se,linus.granborg@schibsted.se,,,,,Full time,,,
+12/3/2015 18:20:37,Database Reporter,The Chronicle of Higher Education,"Higher education and the non-profit world is awash in data--graduation rates, endowments, salaries, federal grants, scholarly citations--and we need someone to help make sense of it all. We're seeking an experienced database reporter to join our newsroom in Washington, D.C.
+
+We're looking for someone who can work with reporters across the newsroom, collaborating on individual stories, proposing new projects, and maintaining existing databases. The reporter will coordinate several of our high-profile annual projects, including our widely-cited survey of presidential pay, and will collaborate with designers and developers on data presentations. This reporter will also be a resource to others in The Chronicle who are interested in advancing technical skills related to computer-assisted reporting.
+
+The ideal candidate loves using data to tell important investigative stories, has an interest in higher education, non-profit, and is fascinated by the journalism of ideas.","Bachelor's degree or equivalent of 4-6 years' experience in database reporting.
+Ability to write clear and accurate stories.
+In-depth knowledge of a range of computer-assisted reporting tools, especially MySQL and Excel.
+Some programming ability (e.g., HTML CSS, Javascript, Python, jQuery) a big plus.
+Outstanding attention to detail is a must.","Washington, D.C.",chronicle.com,datasearch@chronicle.com,12/12/2015 1:00:00,,,,Full time,http://chronicle.com/page/Employment-Opportunities/641#1,,1
+12/10/2015 12:21:42,Lead News Applications Developer,Minneapolis Star Tribune,"The newsroom developer will experiment with and create immersive applications for both the web and mobile platforms that prioritize reader engagement and storytelling. In addition, this person will engineer tools that assist journalists in producing interactive elements, including data visualizations.","Qualifications
+Bachelor’s degree in journalism, visual journalism, computer science or related discipline and 5 years of experience or equivalent at a multi-platform news organization. Experience in cross-functional teams is desired; project management experience preferred.See full ad for preferred programming experience list.
+","Minneapolis, MN",www.startribune.com, newsrecruiter@startribune.com,,,75000,Year,Full time,https://www.journalismjobs.com/job-listings/1626352,,1
+12/15/2015 12:18:07,Data Journalist/Creative Developer/Designer,SITU Research,"Do you want to change how the world sees human rights….? 
+
+SITU Research in Brooklyn, NY, is seeking a creative developer/designer interested in joining a team engaged in projects that explore the boundaries of architecture, spatial practice and human rights.  Work will be experimental in nature and an enthusiasm for technological innovation, creative problem solving and applied interdisciplinary work is essential. 
+
+This position is part of SITU Research's Spatial Practice as Evidence and Advocacy Project (SPEA). For more information on SPEA please see this press release. 
+Experience or ability to the learn the following is desired:
+- Javascript and python
+- Linux command line
+- node.js
+- Postgres and/or SQL
+- An understanding of HTML, CSS, and JSON
+- Using Git for version control
+
+Preferred but not essential:
+- After Effects
+- ArcGIS, ArcMap","Experience or ability to the learn the following is desired:
+- Javascript and python
+- Linux command line
+- node.js
+- Postgres and/or SQL
+- An understanding of HTML, CSS, and JSON
+- Using Git for version control
+
+Preferred but not essential:
+- After Effects
+- ArcGIS, ArcMap","Brooklyn, NY",http://www.situresearch.com,work@situresearch.com,1/1/2016 0:00:00,"Yes, paid",,,Full time,http://situresearch.com/pdf/SPEA_PressRelease.pdf,,1
+1/6/2016 10:43:55,Data Journalist,Infogr8,"Starting: March 2016. 
+Location: 31 Clerkenwell Close, London EC1R 0AT
+
+An excellent opportunity for a data driven journalist to develop skills in a fast paced environment harnessing the team to craft impactful, award winning visual journalism. You will be essential to shaping the early stages of content and have the vision to transform raw ingredients into informative powerful stories that are carried right through to final user experience.
+","A degree in Journalism. 2 years min. journalism experience on a news desk / agency / similar environment. Experience producing charts plotting data using Tableau and D3. Expert in Excel. Portfolio of proof showing proven story writing and content. You will be a social commentator within the data journalism space collaborating with others to produce things in your spare time. An insatiable thirst for knowledge, challenge, learning, and innovation. You exude positivity and a desire to ‘ship’.",London,infogr8.com,http://infogr8.com/careers/data-journalist-role-january-2016-london/,2/29/2016 0:00:00,,,Year,Full time,http://infogr8.com/careers/data-journalist-role-january-2016-london/,,1
+1/7/2016 15:41:16,Investigative Fellow,Investigative Reporting Program,"To help develop a new generation of investigative reporters in an era of cutbacks at major news organizations, the Investigative Reporting Program at the Graduate School of Journalism is hiring
+2 to 3 full-time fellows in investigative reporting. Occasionally, the IRP awards special project support in lieu of a fellowship in-residence.
+
+This is a one-year academic appointment expected to begin on August 26, 2016. Fellows' findings will be published or broadcast for general circulation both nationally and internationally. Fellows will be provided with office space and up to $10,000 in funds for approved travel. No housing or relocation supplements are provided. Fellows are expected to refrain from outside journalistic projects, and to use the Berkeley offices as their base of operations during the fellowship. Read about last year's winners at: http://investigativereportingprogram.com/about- irp/fellows/","Fellows will, under general supervision, conduct research, manage data; write, edit, fact-check and produce project(s). Fellows will be required to submit monthly status reports. In addition to regular interaction with the faculty of the journalism school and the instructors in investigative reporting, the fellows will participate in a weekly seminar in investigative reporting taught by Lowell Bergman and Tim McGirk.","Berkeley, CA",http://investigativereportingprogram.com/about-irp/fellows/,https://aprecruit.berkeley.edu/apply/JPF00917,2/16/2016 23:59:00,"Yes, paid",56808,Year,Full time,http://www.investigativereportingprogram.com,,
+1/7/2016 18:39:47,News applications developer,Chicago Tribune,"We are focused on using data to tell the most important Chicago stories. Our group reports, analyzes, conceptualizes and builds news applications, maps, charts and diagrams. We study our users and develop stories that fit our newsroom’s mission to stand up for the community, share the Chicago experience and help people navigate their daily lives. We play a dual role, mostly developing stories of our own, but also supporting the best stories from the newsroom.
+
+As a team member, we would look to you to be an idea machine, to work on your own and with the Tribune’s best reporters, develop data sources and find stories. Our ideal candidate can take ideas and carry them through to completion, collaborating as needed to make sure the information is clear, the presentation is top notch and the distribution/promotion is far-reaching. ","* Sincere curiosity. Above all things.
+* Ability to code in Python.  Experience with Django and/or Flask really valued.
+* Strong HTML5, CSS3 and JavaScript. Familiarity with CSS preprocessors (we use Sass). Experience with d3 and Leaflet. 
+* Familiarity with git for source code management.
+* Familiarity with shell scripting and *nix sysadmin tasks. We prefer familiarity with Amazon Web Services.
+* An open-source mentality, thinking about how to build projects as sets of reusable components.","Chicago, Illinois USA",https://www.chicagotribune.com,https://careers-tribunepublishing.icims.com/jobs/43951/dataviz-developer/job,2/29/2016 23:59:00,,,,Full time,https://github.com/newsapps/jobs/blob/master/senior-news-applications-developer-20160107.md,,1
+1/9/2016 16:03:02,News applications developer,Milwaukee Journal Sentinel,"The Milwaukee Journal Sentinel is seeking an experienced developer to create news applications, help build new digital products, and work closely with reporters to collaborate on ambitious journalism that changes policy and informs and improves the world.
+ 
+The ideal candidate will be comfortable planning, designing and executing interactive news and data applications, including for mobile devices. This person will be involved in long-term projects but also should be able to work on deadline.
+ 
+You’ll join a positive culture that values self-starters and new ideas. You’ll have the latitude to pursue your own ideas, while also being a full partner in the most important investigations and projects throughout the newsroom. The Milwaukee Journal Sentinel has a long history of producing award-winning work that leads to change on a state and national level. This candidate will be an integral part of our team. Previous journalism experience is preferred.","Experience working with modern web standards and frameworks – i.e. JS, HTML, CSS
+Experience with MongoDB preferred
+We currently use Python/Django, but experience with other stacks or frameworks is helpful
+Some knowledge of mapping -- QGIS, MapBox, Leaflet
+Experience utilizing and integrating developer APIs and libraries
+Experience with version control (Git) is preferred","Milwaukee, WI",www.jsonline.com," Applications, which should include links to samples of work, should be made to Greg Borowski, Deputy managing editor for projects, investigations and digital innovation. greg.borowski@jrn.com",2/1/2016 22:00:00,,,,Full time,,,1
+1/13/2016 14:05:39,Data Visualization Developer,Thomson Reuters,"Reuters is looking for a seasoned front-end web developer to work with the graphics team building news-driven data visualizations. The Data Visualization Developer will create interactive graphics packages for news stories and build graphics tools for the department and the wider newsroom.
+Candidates should have strong organizational skills, an interest in data, and how to visualize it in a meaningful way. This work will be be featured on Reuters.com and Eikon, Thomson Reuters' showcase desktop product.
+Candidates must demonstrate a genuine understanding of design, and stay abreast of new techniques and tools for presenting information visually and interactively.
+","Mastery of HTML5, CSS3 and javascript and familiarity with libraries like D3, backbone, underscore and JQuery as well as mapping tools such as TileMill, QGIS, and TopoJSON.
+Familiarity with back-end web technologies including Python and Ruby - web frameworks such as PHP, Rails, Django or node.js.
+Familiarity with Less, Sass, Grunt or similar tools for compiling and minimizing CSS.",New York City,Reuters.com,https://toc.taleo.net/careersection/2/jobdetail.ftl?lang=en&job=JREQ055222,,,,,Full time,,,1
+1/20/2016 21:22:10,Interactive Graphic Journalist,Bloomberg Graphics,"We are looking for interactive graphic journalists, aka newsroom coders, on the graphics desk. This job based in our Hong Kong office -- your work will have a focus on Asia, but you'll also be doing global stories (it's a global economy, after all). We work on contents and container(s)!","Standard design tools, coding experience. Please send us a link to your portfolio and/or a blog! We love those.",Hong Kong,http://www.bloomberg.com/graphics,"http://jobs.bloomberg.com/asia/job/Hong-Kong-Data-Journalist-Bloomberg-Graphics-News-Desk,-Hong-Kong-Job-H/307917900/",,,,,Full time,,,1
+1/27/2016 15:39:02,News applications specialist,Austin American-Statesman,"* Work as part of a newsroom team to bring our most important stories to our readers in a compelling way across all our various digital platforms.
+* Develop, code, test and debug news apps for mobile and wired platforms.
+* Share and expand knowledge with other team members, and to learn from the experience of others.
+* Research new technology, best practices and tools and analyze for best fit, usage, stability and performance.
+* Communicate with both technical and non-technical colleagues to serve as a bridge between content and digital design of applications and visualizations.
+* Some reporting and contacting sources for data and information.","* Understanding of data structures and database management
+* Familiarity with web API’s and common data visualization libraries
+* Demonstrated ability to turn concepts into user-focused apps using HTLM5/CSS3/Javascript. We use Node.js for package management, PHP/WordPress, Python and Django. While experience in these areas is preferred, we recognize developers are adaptable, and so are we.","Austin, TX",http://www.statesman.com,https://github.com/statesman/jobs/blob/master/news-apps-specialist.md,3/1/2016 11:59:00,,,,Full time,https://github.com/statesman/jobs/blob/master/news-apps-specialist.md,,1
+1/28/2016 10:16:16,Data Intern,The Palm Beach Post,"The Palm Beach Post is seeking a self-starter for a six-month, paid computer-assisted reporting internship with the newspaper’s award-winning investigative team.
+The position calls for helping all newsroom reporters with data analysis while pursuing in-depth projects with The Post’s investigative team and working with our web development team to create enticing web presentations. 
+The job calls for working 40 hours per week but is temporary in duration, lasting six months. A four-year college degree is preferred. The internship is scheduled to begin in the second quarter of 2016. 
+","Our ideal candidate has web development (HTML, JavaScript and CSS) and data (SQL and Excel) skills. We’re looking for the best available candidate and will consider candidates who lean one way or the other. But the ideal person is interested and able to do both web development and data crunching.   ","West Palm Beach, FL",www.myPalmBeachPost.com,pbpostinterns@gmail.com,2/22/2016 18:00:00,"Yes, paid",600,Week,Full time,https://www.journalismjobs.com/job-listings/1627479 ,,1
+2/12/2016 11:00:24,Data Journalist Consultant,Dalberg Research ,"We are a dynamic and exciting social enterprise working on global issues with UN clients, major global foundations and a range of international clients around the world, with particular focus on Africa. We are looking for a data journalist with particular interest and skills in developing info-graphics (data based and conceptual illustrations) to flesh out the insights we are developing in our work. We are an applied research firm so our products are for informed clients - not the general public, but are often published. This would be a contract role with the possibility to covert to a full time job upon both excellent performance and building deeper stream of client projects needing this skill set. ","- Excellent graphics illustration skills
+- Excellent ability to draw on large data sets to create info-graphics
+- Excellent ability to tell the story of an ecosystem through graphics and data
+- Passion for and commitment to global / international development issues
+- Ability to manage projects in a timely fashion in line with agreed milestones
+- Positive attitude and team communications / collaboration",London,www.dalbergresearch.com,info@dalbergresearch.com,,,,Week,Part time,,,1
+2/22/2016 5:22:10,Data Journalism Intern,Dalia Research GmbH,"As a Data Journalism Intern at Dalia, you will
+1. Propose your own ideas for the projects and execute/manage them independently
+2. Research, write and edit content related to public policy, social affairs, economics and business
+3. Assist the marketing department in developing outreach strategies  
+4. Work closely with the CEO, Marketing and Data Department
+Independently develop data visualisation formats and turn information into stories
+5. Track and engage with content by best data journalists from around the world","1. Exceptionally strong writing and storytelling skills in English
+2. Experience working with survey data
+3. Interest in current affairs  
+4. Pragmatic and analytical thinking with a healthy dose of creativity
+5. Strong organisational and project management skills
+6. Ability to inspire others and independently drive projects forward
+
+BONUS: Additional languages (eg. German, Spanish, French)",Berlin,www.daliaresearch.com,hr@daliaresearch.com,,"Yes, paid",,Month,Full time,https://daliaresearch.com/careers-data-journalism-intern/,,1
+2/22/2016 5:22:13,Data Journalism Intern,Dalia Research GmbH,"As a Data Journalism Intern at Dalia, you will
+1. Propose your own ideas for the projects and execute/manage them independently
+2. Research, write and edit content related to public policy, social affairs, economics and business
+3. Assist the marketing department in developing outreach strategies  
+4. Work closely with the CEO, Marketing and Data Department
+Independently develop data visualisation formats and turn information into stories
+5. Track and engage with content by best data journalists from around the world","1. Exceptionally strong writing and storytelling skills in English
+2. Experience working with survey data
+3. Interest in current affairs  
+4. Pragmatic and analytical thinking with a healthy dose of creativity
+5. Strong organisational and project management skills
+6. Ability to inspire others and independently drive projects forward
+
+BONUS: Additional languages (eg. German, Spanish, French)",Berlin,www.daliaresearch.com,hr@daliaresearch.com,,"Yes, paid",,Month,Full time,https://daliaresearch.com/careers-data-journalism-intern/,,1
+3/4/2016 12:02:38,News application developer/data journalist,Center for Public Integrity,"We're looking for someone to create compelling stories told with interactive news graphics, data-driven visualizations, video and news apps.
+","Experience in both analyzing and visualizing datasets.
+An understanding of how to explain complex news stories visually.
+Grounding in current best practices in user experience, digital content design, and web development standards.
+Skills using HTML, CSS, JavaScript, jQuery, Adobe Creative Suite, etc.
+Experience with responsive/adaptive design techniques, particularly CSS3 media queries, for both mobile and embeddable widget design.","Washington, DC",http://www.publicintegrity.org/about/our-organization/work-here,http://publicintegrity.atsondemand.com/index.cfm?fuseaction=512612.viewjobdetail&CID=512612&JID=526008&BUID=3777,,,,,Full time,,,1
+3/4/2016 21:08:59,Data enterprise reporter,Tampa Bay Times,"The Tampa Bay Times is looking for a reporter to find and tell great stories with data.
+We want someone who will start with fascinating and important questions and use a combination of technology and old-fashioned reporting to answer them.
+You should be eager to experiment with the latest digital tools and should know how to tell a good story in whatever form suits it best. That could be a graphic, a charticle or a 3,000-word narrative.
+We don’t have production quotas. But we envision you producing a range of quick-turn and more ambitious stories, on your own and in concert with reporters in departments across the newsroom.
+This position will join the paper’s newly formed data team, a newsroom group of data analysts, web designers and computer programmers who seek to use technology to do better journalism. We’re attached to the paper’s investigative unit, which has a long history of ambitious data-driven investigations.","3+ years experience and a demonstrated ability to:
+* Develop interesting stories on original data analysis.
+* Write clear and compelling “stories” (alternative story forms count!).
+* Collect and analyze data, interview sources and work with other reporters.
+* Experiment with and adapt to the latest technology","St. Petersburg, FL",tampabay.com,aplayford@tampabay.com,,,,Year,Full time,http://tbtim.es/datagigs,,1
+3/4/2016 21:10:59,Digital designer / digital design editor,Tampa Bay Times,"The Tampa Bay Times is looking for a talented web designer/developer to translate our most ambitious journalism to the web and envision new ways to tell great stories online.
+We’re looking for technologists who think like journalists, and journalists who can make web browsers dance.
+This position will join the paper’s newly formed data team, a newsroom group of data analysts, web designers and computer programmers who seek new ways to use technology to do better journalism. We’re attached to the paper’s investigative unit but also treasure the Times’ tradition of experimenting with written narrative.
+Our ideal candidate wants to help us extend that tradition onto laptops and tablets and phones and whatever new tiny thing our readers start using next.","We’re looking for at least two years’ experience and:
+* A designer’s eye.
+* A comfort making things for the web (HTML, CSS and Javascript)
+* A fluency in how those technologies can empower digital storytelling.
+We’d also look kindly on:
+* Candidates with deep interest in data, investigative or narrative journalism.
+* Broader programming experience (e.g., server-side, command-line or web scraping).",St. Petersburg,tampabay.com,aplayford@tampabay.com,,,,,Full time,http://tbtim.es/datagigs,,1
+3/7/2016 15:19:12,News application developer,The Atlanta Journal-Constitution,"The Atlanta Journal-Constitution is hiring a news app developer to work on the data team in the newsroom. We're looking for someone to design and build creative interactive graphics, news applications, data visualizations and other digital products to tell the AJC's most important stories in new and innovative ways. See the job posting for more info.","Demonstrated design skills and experience in visualizing data. Front-end development chops. Experience with a server-side language like Python, Ruby or Node.js. Experience with D3.js and MVC javascript frameworks like Backbone a plus. Send us links to your work!","Atlanta, GA",http://www.myajc.com/,https://github.com/NewsappAJC/jobs/blob/master/news_app_developer.md,,,,,Full time,https://github.com/NewsappAJC/jobs/blob/master/news_app_developer.md,,1
